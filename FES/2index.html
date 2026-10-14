@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head><title>flex box</title>
+    <style>
+        .banner{
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         height: 100vh;
+         background: linear-gradient(135deg , #6c63ff , #8ec5fc);
+         color: white;
+         text-align: center;
+         animation: fadeUP 1s ease-out;
+         font-family: 'Times New Roman', Times, serif;
+        }
+        .banner__content{
+            max-width: 600px;
+            padding: 0 5vw;
+        }
+        .banner h1{
+            font-size: 6vw;
+            margin-bottom: 20px;
+        }
+        .banner p{
+            font-size: 2vw;
+            margin-bottom: 30px;
+        }
+        .banner button{
+            font-size: 1.2rem;
+            border-radius: 30px;
+            border: 0px solid white;
+            color: #6c63ff;
+            background-color: white;
+            font-family: 'Times New Roman', Times, serif;
+            cursor: pointer;
+            transition:  transform 0.3s ease, background-color 0.3s ease;
+        }
+        .banner button:hover{
+            background-color: #b0c4ae;
+            transform: scale(1.05);
+        }
+        @keyframes fadeUp{
+            from{
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to{
+              opacity: 1;
+              transform: translateY(0);
+            }
+        }
+        @media(max-width: 768px) {
+            .banner p{
+                font-size: 4vw;
+            }
+            .banner h1{
+                font-size: 8vw;
+            }
+            .banner button{
+                padding: 12px 24px;
+                font-size: 1rem;
+            }
+        }
+        @media(max-width: 480px){
+            .banner p{
+                font-size: 5vw;
+                flex-direction: column;
+                padding: 10vh 5vw;
+            }
+            .banner h1{
+                font-size: 10vw;
+            }
+            .banner button{
+                padding: 12px 24px;
+                font-size: 1rem;
+            }
+
+        }
+           
+    </style>
+    </head>
+    <body>
+        <div>
+            <header>
+                <section class="banner">
+                    <div class="banner__con~tent">
+                     <h1> Build Your Future</h1>
+                     <p> Join thousands of learner growing thier coding skills.</p>
+                     <button>Get Started</button>
+                    </div>
+                </section>
+                
+            </header>
+        </div>
+    </body>
+</html>
