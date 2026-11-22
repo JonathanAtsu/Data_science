@@ -1,0 +1,152 @@
+TransactionID,Date,Location,Category,Item,Quantity,UnitPrice,PaymentMethod,Satisfaction
+T0001,10/6/2026,Science Building,Beverage,Smoothie,4,4.75,Card,4
+T0002,9/1/2026,Library Cafe,Beverage,Coffee,1,2.75,Card,4
+T0003,9/21/2026,Library Cafe,Beverage,Coffee,1,2.75,Card,4
+T0004,9/22/2026,Student Center,Snack,Cookie,1,2,Mobile,5
+T0005,10/13/2026,Student Center,Snack,Cookie,3,2,Card,4
+T0006,9/9/2026,Student Center,Beverage,Coffee,1,2.75,Mobile,4
+T0007,10/20/2026,Library Cafe,Beverage,Coffee,1,2.75,Cash,4
+T0008,10/4/2026,Science Building,Beverage,Coffee,2,2.75,Card,4
+T0009,10/22/2026,Science Building,Beverage,Tea,2,2.25,Cash,4
+T0010,9/2/2026,Library Cafe,Food,Sandwich,1,6.5,Card,
+T0011,9/10/2026,Student Center,Food,Salad,4,7.25,Card,4
+T0012,10/12/2026,Student Center,Beverage,Coffee,1,2.75,Cash,4
+T0013,9/21/2026,Science Building,Food,Salad,2,7.25,,5
+T0014,10/24/2026,Student Center,Snack,Muffin,2,3.25,Cash,4
+T0015,10/2/2026,Student Center,Beverage,Coffee,2,2.75,Mobile,5
+T0016,10/15/2026,Library Cafe,Beverage,Coffee,1,2.75,Card,4
+T0017,9/6/2026,Student Center,Food,Salad,2,7.25,Cash,4
+T0018,10/4/2026,Student Center,Snack,Chips,1,1.75,Cash,4
+T0019,9/24/2026,Library Cafe,Beverage,Coffee,2,2.75,Card,5
+T0020,9/29/2026,Student Center,Snack,Cookie,2,2,Card,4
+T0021,9/12/2026,student center ,Snack,Muffin,2,3.25,Cash,4
+T0022,10/10/2026,Student Center,Beverage,Smoothie,4,4.75,Card,3
+T0023,10/27/2026,Student Center,Snack,Cookie,1,2,Cash,4
+T0024,9/21/2026,Library Cafe,Food,Salad,2,7.25,Mobile,4
+T0025,9/13/2026,Student Center,Food,Salad,2,7.25,Cash,4
+T0026,10/11/2026,Science Building,Beverage,Smoothie,1,4.75,Card,5
+T0027,10/11/2026,Library Cafe,Food,Sandwich,2,6.5,Mobile,3
+T0028,10/2/2026,Student Center,Food,Salad,1,7.25,Mobile,3
+T0029,10/31/2026,Library Cafe,Food,Salad,1,7.25,Card,4
+T0030,9/28/2026,Student Center,Beverage,Coffee,1,2.75,Card,4
+T0031,10/26/2026,Student Center,beverage,Tea,2,2.25,Card,4
+T0032,9/8/2026,Library Cafe,Beverage,Bottled Water,1,1.5,Card,4
+T0033,9/29/2026,Library Cafe,Food,Salad,1,7.25,Card,5
+T0034,9/11/2026,Science Building,Beverage,Bottled Water,1,1.5,Mobile,3
+T0035,10/12/2026,Student Center,Snack,Muffin,1,3.25,Card,3
+T0036,10/14/2026,Science Building,Beverage,Bottled Water,1,1.5,Card,3
+T0037,9/28/2026,Science Building,Beverage,Tea,1,2.25,Mobile,4
+T0038,9/15/2026,Science Building,Snack,Cookie,1,2,Mobile,4
+T0039,10/5/2026,Library Cafe,Beverage,Bottled Water,2,1.5,Card,3
+T0040,9/8/2026,Science Building,Beverage,Tea,1,2.25,Mobile,4
+T0041,9/10/2026,Library Cafe,Food,Salad,1,7.25,Mobile,1
+T0042,9/6/2026,Student Center,Beverage,Smoothie,3,4.75,Card,
+T0043,10/20/2026,Student Center,Beverage,Smoothie,1,4.75,Card,2
+T0044,10/21/2026,Student Center,Snack,Chips,2,1.75,Card,5
+T0045,10/29/2026,Library Cafe,Beverage,Bottled Water,-1,1.5,Card,3
+T0046,9/24/2026,Science Building,Beverage,Smoothie,2,4.75,Card,4
+T0047,9/14/2026,Student Center,Snack,Cookie,3,2,Card,3
+T0048,10/26/2026,Student Center,Food,Sandwich,1,6.5,Mobile,3
+T0049,10/18/2026,Library Cafe,Beverage,Tea,1,2.25,Mobile,4
+T0050,10/22/2026,Student Center,Snack,Muffin,1,3.25,Mobile,3
+T0051,9/15/2026,Student Center,Snack,Cookie,2,2,Cash,3
+T0052,9/29/2026,Student Center,Food,Sandwich,1,6.5,Card,5
+T0053,10/28/2026,Science Building,Snack,Muffin,3,3.25,Mobile,4
+T0054,9/23/2026,Student Center,Snack,Chips,1,1.75,Cash,3
+T0055,9/4/2026,LIBRARY CAFE,Snack,Cookie,1,2,Card,5
+T0056,9/18/2026,Library Cafe,Beverage,Bottled Water,2,1.5,Card,3
+T0057,10/4/2026,Library Cafe,Beverage,Coffee,2,2.75,Card,3
+T0058,10/12/2026,Student Center,Beverage,Bottled Water,2,1.5,Card,3
+T0059,9/17/2026,Student Center,Food,Salad,1,7.25,Mobile,3
+T0060,9/16/2026,Student Center,Beverage,Coffee,1,2.75,Card,5
+T0061,9/3/2026,Student Center,Beverage,Bottled Water,1,1.5,Cash,4
+T0062,9/24/2026,Library Cafe,Beverage,Smoothie,4,4.75,Cash,5
+T0063,9/6/2026,Student Center,Food,Sandwich,1,6.5,Card,4
+T0064,9/21/2026,Science Building,Snack,Muffin,2,3.25,Card,4
+T0065,10/25/2026,Science Building,Snack,Chips,2,1.75,Card,3
+T0066,9/26/2026,Student Center,Beverage,Tea,2,2.25,Card,4
+T0067,9/30/2026,Science Building,Food,Sandwich,1,6.5,Mobile,5
+T0068,10/9/2026,Library Cafe,Beverage,Bottled Water,1,1.5,,3
+T0069,9/3/2026,Science Building,Beverage,Bottled Water,1,1.5,Card,4
+T0070,10/19/2026,Science Building,Snack,Muffin,1,3.25,Mobile,3
+T0071,9/25/2026,Library Cafe,Food,Sandwich,2,6.5,Cash,5
+T0072,9/8/2026,Student Center,Food,Salad,2,7.25,Mobile,3
+T0073,10/20/2026,Library Cafe,Beverage,Tea,9,2.25,Card,5
+T0074,10/16/2026,Student Center,Beverage,Coffee,1,2.75,Card,5
+T0075,9/8/2026,Student Center,Beverage,Smoothie,1,4.75,Card,4
+T0076,10/23/2026,Student Center,Beverage,Tea,2,2.25,Cash,4
+T0077,10/10/2026,Student Center,Beverage,Smoothie,1,4.75,Mobile,3
+T0078,10/23/2026,Science Building,Beverage,Smoothie,1,4.75,Mobile,5
+T0079,9/21/2026,Student Center,Food,Salad,2,7.25,Card,3
+T0080,9/9/2026,Library Cafe,Beverage,Coffee,2,2.75,Mobile,4
+T0081,9/14/2026,Science Building,Food,Salad,1,7.25,Cash,5
+T0082,10/18/2026,Library Cafe,Snack,Chips,3,1.75,Card,5
+T0083,10/13/2026,Student Center,Beverage,Coffee,2,2.75,Card,2
+T0084,10/24/2026,Student Center,FOOD,Cookie,1,2,Cash,4
+T0085,9/8/2026,Science Building,Snack,Muffin,1,3.25,Cash,3
+T0086,9/28/2026,Student Center,Beverage,Bottled Water,1,1.5,Card,5
+T0087,9/22/2026,Library Cafe,Beverage,Tea,2,2.25,Card,4
+T0088,10/1/2026,Student Center,Beverage,Bottled Water,1,1.5,Mobile,3
+T0089,10/21/2026,Student Center,Food,Salad,1,7.25,Mobile,5
+T0090,10/31/2026,Student Center,Beverage,Smoothie,2,4.75,Card,4
+T0091,10/21/2026,Student Center,Beverage,Bottled Water,1,1.5,Card,4
+T0092,10/9/2026,Student Center,Food,Salad,1,7.25,Card,5
+T0093,9/19/2026,Science Building,Food,Sandwich,1,0,Cash,3
+T0094,9/10/2026,Student Center,Food,Sandwich,1,6.5,Card,4
+T0095,10/17/2026,Student Center,Snack,Muffin,2,3.25,Mobile,4
+T0096,9/9/2026,Student Center,Snack,Chips,4,1.75,Card,4
+T0097,9/18/2026,Student Center,Food,Sandwich,2,6.5,Cash,2
+T0098,10/31/2026,Library Cafe,Snack,Muffin,1,3.25,Card,3
+T0099,9/28/2026,Student Center,Food,Sandwich,3,6.5,Cash,4
+T0100,9/28/2026,Student Center,Beverage,Bottled Water,1,1.5,Card,4
+T0101,10/13/2026,Library Cafe,Snack,Muffin,1,3.25,Cash,4
+T0102,10/3/2026,Science building,Snack,Muffin,1,3.25,Mobile,2
+T0103,9/21/2026,Science Building,Beverage,Coffee,1,2.75,Cash,4
+T0104,10/31/2026,Student Center,Food,Sandwich,1,6.5,Mobile,5
+T0105,9/20/2026,Science Building,Food,Sandwich,1,6.5,Card,4
+T0106,9/27/2026,Student Center,Food,Salad,1,7.25,Card,4
+T0107,9/8/2026,Science Building,Snack,Muffin,1,3.25,Mobile,4
+T0108,9/6/2026,Student Center,Food,Salad,1,7.25,Mobile,3
+T0109,10/11/2026,Library Cafe,Beverage,Smoothie,2,4.75,Card,5
+T0110,10/2/2026,Student Center,Snack,Muffin,1,3.25,Card,4
+T0111,9/21/2026,Science Building,Food,Sandwich,1,6.5,Cash,3
+T0112,10/8/2026,Library Cafe,Food,Sandwich,1,6.5,Cash,4
+T0113,10/13/2026,Science Building,Snack,Chips,3,1.75,Card,2
+T0114,10/1/2026,Student Center,Beverage,Coffee,1,2.75,Card,2
+T0115,9/26/2026,Science Building,Food,Salad,1,7.25,Card,3
+T0116,9/25/2026,Library Cafe,Food,Sandwich,4,6.5,Cash,5
+T0117,10/17/2026,Science Building,Food,Salad,1,7.25,Card,5
+T0118,9/18/2026,Student Center,Snack,Cookie,3,2,Mobile,3
+T0119,9/3/2026,Student Center,Food,Sandwich,2,6.5,Card,
+T0120,10/8/2026,Student Center,Snack,Muffin,1,3.25,Mobile,5
+T0121,9/11/2026,Library Cafe,Snack,Muffin,2,3.25,Card,3
+T0122,9/26/2026,Student Center,Snack,Cookie,1,2,Mobile,4
+T0123,9/5/2026,Student Center,Beverage,Coffee,2,2.75,Card,5
+T0124,10/7/2026,Student Center,Snack,Chips,1,1.75,Card,4
+T0125,10/28/2026,Library Cafe,Beverage,Tea,2,2.25,Cash,4
+T0126,9/15/2026,Science Building, snack ,Bottled Water,2,1.5,Card,3
+T0127,9/7/2026,Student Center,Snack,Cookie,1,2,Card,5
+T0128,10/21/2026,Student Center,Snack,Cookie,1,2,Card,3
+T0129,10/25/2026,Library Cafe,Beverage,Tea,1,2.25,Card,5
+T0130,10/14/2026,Library Cafe,Food,Salad,1,7.25,Card,3
+T0131,10/17/2026,Student Center,Beverage,Smoothie,1,4.75,Card,3
+T0132,10/22/2026,Library Cafe,Beverage,Coffee,1,2.75,Cash,6
+T0133,10/2/2026,Library Cafe,Beverage,Tea,3,2.25,Mobile,5
+T0134,9/18/2026,Library Cafe,Food,Salad,1,7.25,Card,5
+T0135,10/9/2026,Student Center,Food,Sandwich,1,6.5,Mobile,4
+T0136,9/10/2026,Library Cafe,Snack,Muffin,2,3.25,Cash,4
+T0137,9/11/2026,Student Center,Beverage,Coffee,2,2.75,Cash,4
+T0138,9/25/2026,Science Building,Snack,Chips,1,1.75,Cash,4
+T0139,9/19/2026,Library Cafe,Food,Salad,1,7.25,Mobile,4
+T0140,10/14/2026,Library Cafe,Beverage,Bottled Water,1,1.5,Card,
+T0141,9/7/2026,Science Building,Snack,Cookie,3,2,Mobile,4
+T0142,9/4/2026,Student Center,Beverage,Tea,2,2.25,Mobile,4
+T0143,9/3/2026,Student Center,Food,Sandwich,1,6.5,Card,3
+T0144,9/24/2026,Student Center,Beverage,Coffee,1,2.75,Cash,3
+T0145,9/13/2026,Library Cafe,Food,Salad,1,7.25,Mobile,3
+T0146,9/27/2026,Student Center,Beverage,Tea,3,2.25,Cash,5
+T0147,9/25/2026,Student Center,Food,Sandwich,1,6.5,Mobile,2
+T0148,10/3/2026,Science Building,Snack,Muffin,1,3.25,Cash,4
+T0149,10/30/2026,Student Center,Food,Sandwich,1,6.5,Mobile,5
+T0150,9/24/2026,Science Building,Snack,Muffin,2,3.25,Card,5
+T0037,9/28/2026,Science Building,Beverage,Tea,1,2.25,Mobile,4
